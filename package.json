@@ -1,0 +1,8 @@
+{
+  "name": "mortgage-calculator",
+  "version": "1.0.0",
+  "description": "Fast mortgage calculator",
+  "scripts": {
+    "dev": "python -m http.server 3000"
+  }
+}
